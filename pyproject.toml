@@ -1,0 +1,10 @@
+[project]
+name = "dps-pygui"
+version = "0.1.0"
+requires-python = ">=3.14"
+dependencies = [
+    "minimalmodbus>=2.1.1",
+    "pyqtgraph>=0.14.0",
+    "pyserial>=3.5",
+    "serial>=0.0.97",
+]
